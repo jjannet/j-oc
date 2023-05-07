@@ -1,1 +1,1 @@
-python -m PyInstaller --onefile app.py
+python -m PyInstaller --onefile app.py --name j-oc
