@@ -1,4 +1,4 @@
 
 
 class Config:
-    appName = "j-oc"
+    appName = "joc"
